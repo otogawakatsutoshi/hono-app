@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.12.2",
+    "@hono/zod-openapi": "^0.16.0",
     "amaro": "^0.1.8",
     "dotenv": "^16.4.5",
     "hono": "^4.5.9"
